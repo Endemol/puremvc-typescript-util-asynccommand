@@ -15,7 +15,7 @@ module puremvc_async
 	 * Your subclass should override the <code>execute</code> 
 	 * method where your business logic will handle the <code>INotification</code>. </P>
 	 * 
-	 * @see org.puremvc.as3.patterns.command.AsyncMacroCommand AsyncMacroCommand
+	 * @see org.puremvc.as3.patterns.command.AsyncMacroCommand
 	 */
 	export class AsyncCommand extends puremvc.SimpleCommand	implements IAsyncCommand
 	{

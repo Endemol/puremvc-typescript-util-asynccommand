@@ -1,8 +1,13 @@
 License
+
 PureMVC Utility for TypeScript - AsyncCommand - Copyright © 2013 Kuba Wyrobek
+
 PureMVC Utility for AS3 - AsyncCommand - Copyright © 2008 Duncan Hall
+
 PureMVC TypeScript Standard Framework - Copyright © 2012 Frederic Saunier
+
 PureMVC - Copyright © 2006-2012 Futurescale, Inc.
+
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:

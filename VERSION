@@ -1,0 +1,14 @@
+PureMVC Util AsyncCommand for TypeScript
+----------------------------------------------------------------------------------------------------
+Release Date: 21/02/2013
+Platform: TypeScript
+Version: 1
+Revision: 0
+Author: Kuba Wyrobek <me@parhelium.pl>
+Author: Frederic Saunier <frederic.saunier@puremvc.org>
+Status: Development
+----------------------------------------------------------------------------------------------------
+
+1.0 - PureMVC Util AsyncCommand TypeScript port.
+
+This port, is converted from PureMVC Util AsyncCommand for AS3 by Duncan Hall.
