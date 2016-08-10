@@ -1,0 +1,25 @@
+{
+  "name": "puremvc-typescript-util-asynccommand",
+  "version": "1.0.0",
+  "description": "Provides an asyncronous command pattern",
+  "main": "index.js",
+  "bin": {
+    "puremvc-typescript-util-asynccommand": "utility-typescript-standard-asynccommand-1.0-min.js"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Endemol/puremvc-typescript-util-asynccommand.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Endemol/puremvc-typescript-util-asynccommand/issues"
+  },
+  "homepage": "https://github.com/Endemol/puremvc-typescript-util-asynccommand#readme"
+}
