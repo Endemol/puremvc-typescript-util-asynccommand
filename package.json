@@ -2,10 +2,7 @@
   "name": "puremvc-typescript-util-asynccommand",
   "version": "1.0.0",
   "description": "Provides an asyncronous command pattern",
-  "main": "index.js",
-  "bin": {
-    "puremvc-typescript-util-asynccommand": "utility-typescript-standard-asynccommand-1.0-min.js"
-  },
+  "main": "bin/utility-typescript-standard-asynccommand-1.0.js",
   "directories": {
     "test": "test"
   },
